@@ -18,14 +18,14 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
+title: estatup
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 url: https://estatup.github.io/estatup
 baseurl: "/estatup"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
+repo: http://github.com/estatup/estatup
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
@@ -37,7 +37,7 @@ author:
   thumb: /images/author.jpg
   email: nandomoreira.me@gmail.com
   url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
+  github: https://github.com/estatup
   twitter: https://twitter.com/umdevux
   facebook: https://facebook.com/umdevux
   linkedin: https://linkedin.com/in/nandomoreirame
